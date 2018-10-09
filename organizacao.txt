@@ -1,0 +1,37 @@
+1-Welcome
+2-Python standard library introduction
+3-Python Built-in's:
+    Logical operators
+    Comparison Operators
+    Calculating length
+    Range and list
+    Min and Max
+    Round, abs, pow
+    Sorted function
+    type function
+
+4-Math
+    trigonometry,ceiling,floor and constants
+    factorial, square root and CGD
+    random
+    calculating statistics with Python
+    iterators with itertools: infinite processes
+    iterators with itertools: permutations and combinations
+
+5-Input and Output
+    command line arguments
+    in out
+    files
+    file seeking in Python
+    iterative files
+    tempfiles
+    manipulate zip files in Python
+
+6- Date&Time, HTML parsing and HTTP
+    Getting current time
+    formatting date and time
+    calculating future time
+    create a timer with Python time
+    Python HTML parser
+    text wrap module
+    Python HTTP package, urllib and JSON
