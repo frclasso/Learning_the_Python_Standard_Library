@@ -28,3 +28,4 @@ zip.extractall() # extraindo tudo
 
 # Closing file
 zip.close()
+
